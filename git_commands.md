@@ -7,3 +7,7 @@ git config --global user.email "your.email@company.com"
 ```
 git clone http://gitlab.tcsvmo2trg.com/consumer/frontend/app1.git
 ```
+
+| Sl no | Name |
+| -------- | -------- |
+| 1 | Thanigai |
